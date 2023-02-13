@@ -1,0 +1,11 @@
+body {
+  color: #222;
+  background: #eee;
+
+  width: 16rem;
+  height: 4rem;
+}
+
+.special-text {
+  color: red;
+}
